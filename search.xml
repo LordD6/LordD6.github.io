@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>大家好,欢迎来到D6的个人门户网站</title>
-    <url>/2022/02/05/%E5%A4%A7%E5%AE%B6%E5%A5%BD%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0D6%E7%9A%84%E4%B8%AA%E4%BA%BA%E9%97%A8%E6%88%B7%E7%BD%91%E7%AB%99/</url>
-    <content><![CDATA[<p>欢迎来到D6的个人门户网站XD,作为个人博客网站,后面会上传一些个人制作的实用程序或更新一些生活日常或一些个人分享,也将用于和BiliBili个人频道以及github个人频道联动使用. anyway thx for visiting</p>
-<p>Welcome to the personal portal website of D6. As a personal blog website, i will upload some personal made software or update some daily life or some personal sharing. It will also be used for linkage with BiliBili &#x2F; Youtube personal channel and GitHub personal channel. anyway thx for visiting :D</p>
-]]></content>
-  </entry>
-  <entry>
     <title>NewUpdate</title>
     <url>/2022/02/06/NewUpdate/</url>
     <content><![CDATA[<p>敲了大半天的代码把网站更新(装修)了一下,看起来稍微”美观一点点”当然也开了评论区功能,小伙伴们可以来发评论了捏,后面会继续优化这个版面的调整……<br>更新内容:1.评论区已开发 2.个人主页超链接已开发,我的Youtube…github…bilibili等等等已经可以通过网站直接超链接过去了</p>
@@ -16,5 +9,12 @@
       <tags>
         <tag>更新讯息</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>大家好,欢迎来到D6的个人门户网站</title>
+    <url>/2022/02/05/%E5%A4%A7%E5%AE%B6%E5%A5%BD%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0D6%E7%9A%84%E4%B8%AA%E4%BA%BA%E9%97%A8%E6%88%B7%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<p>欢迎来到D6的个人门户网站XD,作为个人博客网站,后面会上传一些个人制作的实用程序或更新一些生活日常或一些个人分享,也将用于和BiliBili个人频道以及github个人频道联动使用. anyway thx for visiting</p>
+<p>Welcome to the personal portal website of D6. As a personal blog website, i will upload some personal made software or update some daily life or some personal sharing. It will also be used for linkage with BiliBili &#x2F; Youtube personal channel and GitHub personal channel. anyway thx for visiting :D</p>
+]]></content>
   </entry>
 </search>
