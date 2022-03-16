@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>大家好,欢迎来到D6的个人门户网站</title>
-    <url>/2022/02/05/%E5%A4%A7%E5%AE%B6%E5%A5%BD%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0D6%E7%9A%84%E4%B8%AA%E4%BA%BA%E9%97%A8%E6%88%B7%E7%BD%91%E7%AB%99/</url>
-    <content><![CDATA[<p>欢迎来到D6的个人门户网站XD,作为个人博客网站,后面会上传一些个人制作的实用程序或更新一些生活日常或一些个人分享,也将用于和BiliBili个人频道以及github个人频道联动使用. anyway thx for visiting</p>
-<p>Welcome to the personal portal website of D6. As a personal blog website, i will upload some personal made software or update some daily life or some personal sharing. It will also be used for linkage with BiliBili &#x2F; Youtube personal channel and GitHub personal channel. anyway thx for visiting :D</p>
+    <title>Update1.0</title>
+    <url>/2022/02/09/Update1.0/</url>
+    <content><![CDATA[<p>更新: 1.关于D6的页面,提及了D6和他的朋友们<br>        2.侧边栏有了一首很喜欢的音乐:UnderNoFlag<br>        3.公益404的界面<br>        4.访问量的显示</p>
 ]]></content>
+      <tags>
+        <tag>更新讯息</tag>
+      </tags>
   </entry>
   <entry>
     <title>NewUpdate</title>
@@ -18,12 +20,10 @@
       </tags>
   </entry>
   <entry>
-    <title>Update1.0</title>
-    <url>/2022/02/09/Update1.0/</url>
-    <content><![CDATA[<p>更新: 1.关于D6的页面,提及了D6和他的朋友们<br>        2.侧边栏有了一首很喜欢的音乐:UnderNoFlag<br>        3.公益404的界面<br>        4.访问量的显示</p>
+    <title>大家好,欢迎来到D6的个人门户网站</title>
+    <url>/2022/02/05/%E5%A4%A7%E5%AE%B6%E5%A5%BD%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0D6%E7%9A%84%E4%B8%AA%E4%BA%BA%E9%97%A8%E6%88%B7%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<p>欢迎来到D6的个人门户网站XD,作为个人博客网站,后面会上传一些个人制作的实用程序或更新一些生活日常或一些个人分享,也将用于和BiliBili个人频道以及github个人频道联动使用. anyway thx for visiting</p>
+<p>Welcome to the personal portal website of D6. As a personal blog website, i will upload some personal made software or update some daily life or some personal sharing. It will also be used for linkage with BiliBili &#x2F; Youtube personal channel and GitHub personal channel. anyway thx for visiting :D</p>
 ]]></content>
-      <tags>
-        <tag>更新讯息</tag>
-      </tags>
   </entry>
 </search>
